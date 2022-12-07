@@ -28,10 +28,11 @@ $(document).ready(function() {
       "help you study",
       "suggest your scores",
       "help you choose your major",
+      "enhance your Alma experience."
     ],
     typeSpeed: 150,
     backSpeed: 80,
-    loop: true,
+    loop: false,
   })
 
 
