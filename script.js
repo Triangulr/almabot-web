@@ -21,21 +21,6 @@ $(document).ready(function() {
     $('.menu-btn i').toggleClass("active");
   })
 
-  var typed = new Typed('.typing', {
-    strings: [
-      "count your GPA",
-      "give you advice",
-      "help you study",
-      "suggest your scores",
-      "help you choose your major",
-      "enhance your Alma experience."
-    ],
-    typeSpeed: 150,
-    backSpeed: 80,
-    contentType: 'html',
-    loop: false,
-  })
-
 
   $('.carousel').owlCarousel({
     margin: 20,

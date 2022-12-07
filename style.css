@@ -135,6 +135,8 @@ html {
 .home .home-content .text-3 {
   font-size: 40px;
   margin: 5px 0;
+  color: #22b4b7;
+  font-weight: 500;
 }
 .home .home-content .text-3 span {
   color: #22b4b7;
