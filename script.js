@@ -34,8 +34,6 @@ $(document).ready(function() {
     loop: true,
   })
 
-  // this is really cool
-  // but you should vote Mikuni first
 
   $('.carousel').owlCarousel({
     margin: 20,
