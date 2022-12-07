@@ -29,7 +29,7 @@ $(document).ready(function() {
       "suggest your scores",
       "help you choose your major",
     ],
-    typeSpeed: 120,
+    typeSpeed: 150,
     backSpeed: 80,
     loop: true,
   })
