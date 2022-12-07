@@ -32,6 +32,7 @@ $(document).ready(function() {
     ],
     typeSpeed: 150,
     backSpeed: 80,
+    contentType: 'html',
     loop: false,
   })
 
